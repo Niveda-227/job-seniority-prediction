@@ -89,7 +89,9 @@ jupyter notebook job-seniority-prediction.ipynb
 ## 📬 Contact
 
 **Author:** Niveda Jawahar 
-**LinkedIn:** [https://www.linkedin.com/in/nivedajawahar/]
+
+**LinkedIn:** https://www.linkedin.com/in/nivedajawahar/
+
 **Email:** nivedajawahar@gmail.com
 
 ---
