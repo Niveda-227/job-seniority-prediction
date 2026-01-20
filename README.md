@@ -55,7 +55,7 @@ Built an end-to-end ML pipeline to predict job seniority (Entry/Mid/Senior/Lead)
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/job-seniority-prediction.git
+git clone https://github.com/Niveda-227/job-seniority-prediction.git
 cd job-seniority-prediction
 
 # Install dependencies
